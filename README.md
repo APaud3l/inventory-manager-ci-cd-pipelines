@@ -13,9 +13,9 @@ Complete the CI/CD process with full integration and automation.
 - Fifth: Day of Week (0 - 6) (Sunday - Saturday)
 - *: every
 
-`0 0 * * *` - midnight everyday UTC
-`0 12 * * 1` - every Monday at 12 PM UTC
-`* * * * *`- every minute
-`*/15 * * * *` - every 15 mins
-`0 0 1,16 * *` 
-`0 0 * * 1-5`
+`0 0 * * *` - midnight everyday UTC <br>
+`0 12 * * 1` - every Monday at 12 PM UTC<br>
+`* * * * *`- every minute<br>
+`*/15 * * * *` - every 15 mins<br>
+`0 0 1,16 * *` <br>
+`0 0 * * 1-5`<br>
