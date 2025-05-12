@@ -2,7 +2,7 @@ name: Auto Deploy After Tests
 
 on:
   workflow_run:
-    workflows: [ MERN Continuous Deployment ]
+    workflows: ["MERN Continuous Deployment"]
     types:
       - completed
 
